@@ -1,7 +1,5 @@
 // -----------------------------------------------------------------
-// NAME : Caleb Melnychenko                  User ID: chmelnyc
-// DUE DATE : 03/18/2020
-// PROGRAM ASSIGNMENT 3
+// NAME : Caleb Melnychenko                  
 // FILE NAME : thread.cpp
 // PROGRAM PURPOSE : 
 //          This is the class that has the implementation
